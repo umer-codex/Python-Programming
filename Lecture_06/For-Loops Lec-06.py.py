@@ -183,10 +183,10 @@ for a in range(3):
     for b in range(5, 10):
         print(a, b)
 
-# index = 0
-# for i in range(1, 11):
-#     print(index, 6 * i)
-#     index += 1
+index = 0
+for i in range(1, 11):
+    print(index, 6 * i)
+    index += 1
 
 index = 0
 for i in range(1, 11):
