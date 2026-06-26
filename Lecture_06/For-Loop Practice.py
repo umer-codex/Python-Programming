@@ -112,3 +112,8 @@ for i in range(3):
         if j == 1:
             continue
         print(i, j)
+
+# Print any Table:
+n = int(input("enter the number:"))
+for i in range(1, 11):
+    print(n * i)
