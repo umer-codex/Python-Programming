@@ -1,11 +1,11 @@
 # Print numbers from 1 to 10:
 for i in range(1, 11):
-    print("1 to 10")
+ #  print("1 to 10")
     print(i)
 
 # Print numbers from 10 to 1 backward:
 for i in range(10, 0, -1):
-    print("10 to 1 backward")
+  # print("10 to 1 backward")
     print(i)
 
 # Print only even numbers from 1 to 20:
